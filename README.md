@@ -1,5 +1,6 @@
-![Release](https://img.shields.io/github/v/release/Shravanthi-K/fastapi-social-backend?style=for-the-badge)# 
-🚀 FastAPI Social Media Backend
+![Release](https://img.shields.io/github/v/release/Shravanthi-K/fastapi-social-backend?style=for-the-badge)
+
+# 🚀 FastAPI Social Media Backend
 
 🔗 **A scalable backend service for a social media–style application built using FastAPI.**  
 It provides RESTful APIs for authentication and post management with clean architecture.
